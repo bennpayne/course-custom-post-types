@@ -1,0 +1,1 @@
+# course-custom-post-types
